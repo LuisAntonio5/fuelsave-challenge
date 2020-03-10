@@ -1,0 +1,17 @@
+.btnText {
+  width: 100px;
+  height: 30px;
+  background: #F2994A;
+  border-radius: 200px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.75px;
+  text-transform: uppercase;
+  color: #F2F2F2;
+  outline: 0px solid #ffffff;
+  margin-top: 50px;
+}
