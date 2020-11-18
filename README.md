@@ -1,4 +1,4 @@
-# frontend-fuelsave-challenge
+# frontend-fuelsave
 
 In the project directory, run
 
